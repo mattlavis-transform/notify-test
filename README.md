@@ -11,6 +11,12 @@
 
   via `pip3 install -r requirements.txt`
 
+## Variables
+
+- TEMPLATE_ID={the ID of the gov.uk Notify template}
+- API_KEY={the API key for gov.uk notify}
+- EMAIL_TO={the address to send email to}
+
 ## Usage
 
-### TBC
+`python3 process.py`
